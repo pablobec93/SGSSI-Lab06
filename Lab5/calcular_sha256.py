@@ -1,3 +1,4 @@
+# Esto es de Ramirín
 import hashlib
 
 def calcular_sha256(archivo_path):
